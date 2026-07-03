@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
