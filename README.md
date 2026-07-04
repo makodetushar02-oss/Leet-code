@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Math
 |  |
 | ------- |
@@ -15,8 +16,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
