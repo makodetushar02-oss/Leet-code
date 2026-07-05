@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/makodetushar02-oss/Leet-code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
@@ -26,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/makodetushar02-oss/Leet-code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
