@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
+| [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,5 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
+| [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
