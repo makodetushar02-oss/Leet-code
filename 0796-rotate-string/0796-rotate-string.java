@@ -3,10 +3,19 @@ class Solution {
         if(s.length() != goal.length()){
             return false ;
         }
-        String s2 = s + s;
-        if(s2.contains(goal)){
-            return true ;
+       int n = s.length();
+       for(int i = 0 ; i< n ; i++){
+        boolean isMatch = true ;
+        for(int j = 0 ; j< n; j++){
+            if(s.charAt((i + j)% n) != goal.charAt(j)){
+                isMatch = false ;
+                break;
+            }
         }
+        if(isMatch){
+                return true ;
+            }
+       }
         return false ;
     }
 }
