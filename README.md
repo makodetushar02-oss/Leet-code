@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
 ## String Matching
@@ -56,4 +58,8 @@
 | ------- |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
