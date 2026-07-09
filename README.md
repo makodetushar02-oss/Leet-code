@@ -17,6 +17,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
