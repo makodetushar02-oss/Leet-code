@@ -14,6 +14,7 @@
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +96,5 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
