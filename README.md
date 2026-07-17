@@ -16,6 +16,7 @@
 | [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -25,6 +26,7 @@
 | [0066-plus-one](https://github.com/makodetushar02-oss/Leet-code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -43,11 +45,13 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/makodetushar02-oss/Leet-code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,8 +110,18 @@
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
