@@ -63,6 +63,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -82,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
