@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/makodetushar02-oss/Leet-code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0263-ugly-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
