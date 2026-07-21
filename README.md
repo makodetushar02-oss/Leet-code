@@ -96,6 +96,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/makodetushar02-oss/Leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2278-percentage-of-letter-in-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/makodetushar02-oss/Leet-code/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3499-maximize-active-section-with-trade-i) |
