@@ -43,6 +43,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -66,6 +67,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -165,6 +169,7 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
