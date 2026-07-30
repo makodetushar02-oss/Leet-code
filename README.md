@@ -40,6 +40,7 @@
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -120,6 +121,7 @@
 | [2315-count-asterisks](https://github.com/makodetushar02-oss/Leet-code/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
