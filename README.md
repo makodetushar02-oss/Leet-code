@@ -64,6 +64,7 @@
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2325-decode-the-message](https://github.com/makodetushar02-oss/Leet-code/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
@@ -119,6 +120,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/makodetushar02-oss/Leet-code/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/makodetushar02-oss/Leet-code/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
