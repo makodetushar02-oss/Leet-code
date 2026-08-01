@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
+| [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
@@ -63,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
