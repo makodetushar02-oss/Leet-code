@@ -20,6 +20,7 @@
 | [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
@@ -43,6 +44,7 @@
 | [0263-ugly-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -155,6 +157,7 @@
 | [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makodetushar02-oss/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -203,4 +206,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
