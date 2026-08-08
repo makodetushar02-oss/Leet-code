@@ -102,6 +102,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -137,6 +138,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -164,6 +166,7 @@
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
