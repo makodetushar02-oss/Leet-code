@@ -1,0 +1,16 @@
+class Solution {
+    public boolean checkDivisibility(int n) {
+        int x = n ;
+        int m = 0;
+        int z = 1;
+        while(n > 0){
+            int temp = n % 10 ;
+            m += temp;
+            z *= temp;
+            n = n/10;
+        }
+        if(x % (m+z) ==0){
+            return true ;
+        }else return false;
+    }
+}
