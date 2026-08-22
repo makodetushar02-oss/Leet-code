@@ -161,6 +161,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
 |  |
@@ -177,6 +178,7 @@
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/makodetushar02-oss/Leet-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
