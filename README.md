@@ -39,6 +39,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/makodetushar02-oss/Leet-code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -127,6 +128,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/makodetushar02-oss/Leet-code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
