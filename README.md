@@ -63,6 +63,7 @@
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/makodetushar02-oss/Leet-code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/makodetushar02-oss/Leet-code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -158,6 +159,7 @@
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/makodetushar02-oss/Leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/makodetushar02-oss/Leet-code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -265,6 +268,7 @@
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/makodetushar02-oss/Leet-code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/makodetushar02-oss/Leet-code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
