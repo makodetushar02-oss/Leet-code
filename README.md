@@ -30,6 +30,7 @@
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/makodetushar02-oss/Leet-code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -67,6 +68,7 @@
 | [1563-stone-game-v](https://github.com/makodetushar02-oss/Leet-code/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -233,6 +235,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,4 +328,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
