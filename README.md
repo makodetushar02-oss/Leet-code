@@ -65,6 +65,7 @@
 | [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/makodetushar02-oss/Leet-code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/makodetushar02-oss/Leet-code/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
@@ -241,6 +242,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -345,4 +347,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
