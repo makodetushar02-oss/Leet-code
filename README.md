@@ -54,6 +54,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/makodetushar02-oss/Leet-code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/makodetushar02-oss/Leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
@@ -273,6 +274,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
