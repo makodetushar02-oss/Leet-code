@@ -59,6 +59,7 @@
 | [0069-sqrtx](https://github.com/makodetushar02-oss/Leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
