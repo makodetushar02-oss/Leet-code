@@ -53,6 +53,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3904-smallest-stable-index-ii) |
 ## Segment Tree
 |  |
 | ------- |
