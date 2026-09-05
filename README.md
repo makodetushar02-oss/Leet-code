@@ -67,6 +67,7 @@
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
@@ -298,6 +299,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
@@ -322,6 +324,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/makodetushar02-oss/Leet-code/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
@@ -336,6 +339,7 @@
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/makodetushar02-oss/Leet-code/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -368,4 +372,12 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/1492-the-kth-factor-of-n) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
