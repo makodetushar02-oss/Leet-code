@@ -190,6 +190,7 @@
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0940-distinct-subsequences-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/makodetushar02-oss/Leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -238,6 +239,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makodetushar02-oss/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/makodetushar02-oss/Leet-code/tree/master/1510-stone-game-iv) |
