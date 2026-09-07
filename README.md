@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/makodetushar02-oss/Leet-code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/makodetushar02-oss/Leet-code/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/makodetushar02-oss/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/makodetushar02-oss/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/makodetushar02-oss/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
