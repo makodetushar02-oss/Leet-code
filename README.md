@@ -30,6 +30,7 @@
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/makodetushar02-oss/Leet-code/tree/master/1563-stone-game-v) |
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/makodetushar02-oss/Leet-code/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3903-smallest-stable-index-i) |
