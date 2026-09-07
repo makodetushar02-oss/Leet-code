@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/makodetushar02-oss/Leet-code/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makodetushar02-oss/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0136-single-number) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0189-rotate-array) |
@@ -212,6 +214,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -384,4 +387,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
