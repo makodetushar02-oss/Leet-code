@@ -5,15 +5,20 @@ class Solution {
         int m = 0;
         while(m<=h){
             if(nums[m] == 2){
-               swap(nums , m , h--);
+                int temp = nums[m];
+                nums[m] = nums[h];
+                nums[h] = temp;
+                h--; 
             }else if(nums[m] == 0){
-               swap(nums , m++ , l++);
-            }else m++;
+               int temp = nums[m];
+                nums[m] = nums[l];
+                nums[l] = temp;
+                m++;
+                l++; 
+            }
+            else{
+                m++;
+            }
         }
-    }
-    public void swap(int nums[],int i, int j){
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
     }
 }
