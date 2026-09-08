@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makodetushar02-oss/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/makodetushar02-oss/Leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -266,6 +269,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
@@ -414,4 +418,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
