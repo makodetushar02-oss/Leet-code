@@ -29,6 +29,7 @@
 | [0724-find-pivot-index](https://github.com/makodetushar02-oss/Leet-code/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/makodetushar02-oss/Leet-code/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
@@ -237,6 +238,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/3731-find-missing-elements) |
@@ -390,6 +392,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Euclidean Algorithm
 |  |
@@ -419,6 +422,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
 ## Divide and Conquer
 |  |
 | ------- |
