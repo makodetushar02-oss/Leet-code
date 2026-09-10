@@ -339,6 +339,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -424,4 +425,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
