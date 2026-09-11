@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/makodetushar02-oss/Leet-code/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/makodetushar02-oss/Leet-code/tree/master/0066-plus-one) |
@@ -158,6 +159,7 @@
 | [0015-3sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/makodetushar02-oss/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0125-valid-palindrome) |
@@ -248,6 +250,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/makodetushar02-oss/Leet-code/tree/master/0115-distinct-subsequences) |
@@ -444,4 +447,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
