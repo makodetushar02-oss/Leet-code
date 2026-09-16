@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
@@ -83,6 +84,7 @@
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +129,7 @@
 | [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
@@ -155,6 +158,7 @@
 | [0035-search-insert-position](https://github.com/makodetushar02-oss/Leet-code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/makodetushar02-oss/Leet-code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/makodetushar02-oss/Leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -187,6 +191,7 @@
 | ------- |
 | [0136-single-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
@@ -249,6 +254,7 @@
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
