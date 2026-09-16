@@ -40,6 +40,7 @@
 | [1089-duplicate-zeros](https://github.com/makodetushar02-oss/Leet-code/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/makodetushar02-oss/Leet-code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1480-running-sum-of-1d-array) |
