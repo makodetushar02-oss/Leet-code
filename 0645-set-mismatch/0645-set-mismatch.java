@@ -1,18 +1,21 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        Set<Integer> set = new HashSet<>();
         int duplicate = -1, missing = -1;
-        for(int num : nums){
-            if(!set.add(num)){
-                duplicate = num ;
+        for (int n : nums) {
+            int index = Math.abs(n) - 1;
+            if (nums[index] < 0) {
+                duplicate = Math.abs(n);
+            } else {
+                nums[index] *= -1;
             }
         }
-        for(int i = 1; i<= nums.length ; i++){
-            if(!set.contains(i)){
-                missing = i;
+        
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                missing = i + 1;
                 break;
             }
         }
-        return new int[]{duplicate , missing};
+        return new int[]{duplicate, missing};
     }
 }
