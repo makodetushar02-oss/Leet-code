@@ -31,6 +31,7 @@
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/makodetushar02-oss/Leet-code/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/makodetushar02-oss/Leet-code/tree/master/0835-image-overlap) |
@@ -141,6 +142,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -203,6 +205,7 @@
 | [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [2351-first-letter-to-appear-twice](https://github.com/makodetushar02-oss/Leet-code/tree/master/2351-first-letter-to-appear-twice) |
@@ -270,6 +273,7 @@
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
