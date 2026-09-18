@@ -148,6 +148,7 @@
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2325-decode-the-message](https://github.com/makodetushar02-oss/Leet-code/tree/master/2325-decode-the-message) |
@@ -234,6 +235,7 @@
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/makodetushar02-oss/Leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -279,6 +281,7 @@
 | [0912-sort-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/makodetushar02-oss/Leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -367,6 +370,7 @@
 | [0011-container-with-most-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
