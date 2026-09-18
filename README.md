@@ -33,6 +33,7 @@
 | [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/makodetushar02-oss/Leet-code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/makodetushar02-oss/Leet-code/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/makodetushar02-oss/Leet-code/tree/master/0835-image-overlap) |
@@ -174,6 +175,7 @@
 | [0268-missing-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/makodetushar02-oss/Leet-code/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
