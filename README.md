@@ -156,6 +156,7 @@
 | [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
+| [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -250,6 +251,7 @@
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
@@ -297,6 +299,7 @@
 | [0912-sort-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/makodetushar02-oss/Leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -424,6 +427,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -523,6 +527,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -548,4 +553,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
