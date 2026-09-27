@@ -252,6 +252,7 @@
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/makodetushar02-oss/Leet-code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1927-sum-game) |
@@ -528,6 +529,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -557,4 +559,8 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
