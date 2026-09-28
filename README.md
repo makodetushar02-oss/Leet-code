@@ -46,6 +46,7 @@
 | [1089-duplicate-zeros](https://github.com/makodetushar02-oss/Leet-code/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/makodetushar02-oss/Leet-code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/makodetushar02-oss/Leet-code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1406-stone-game-iii) |
@@ -190,6 +191,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/makodetushar02-oss/Leet-code/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/makodetushar02-oss/Leet-code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/makodetushar02-oss/Leet-code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/makodetushar02-oss/Leet-code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
