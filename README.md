@@ -64,6 +64,7 @@
 | [2029-stone-game-ix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2029-stone-game-ix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/makodetushar02-oss/Leet-code/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/makodetushar02-oss/Leet-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -142,6 +143,7 @@
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/makodetushar02-oss/Leet-code/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [1563-stone-game-v](https://github.com/makodetushar02-oss/Leet-code/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/makodetushar02-oss/Leet-code/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/makodetushar02-oss/Leet-code/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/makodetushar02-oss/Leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -574,4 +577,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
