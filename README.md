@@ -31,6 +31,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
@@ -160,6 +161,7 @@
 | [0409-longest-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/makodetushar02-oss/Leet-code/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/makodetushar02-oss/Leet-code/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
@@ -387,6 +389,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/makodetushar02-oss/Leet-code/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1480-running-sum-of-1d-array) |
