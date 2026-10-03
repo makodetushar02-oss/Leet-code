@@ -259,6 +259,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/makodetushar02-oss/Leet-code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/0070-climbing-stairs) |
@@ -549,6 +551,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -588,6 +591,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
