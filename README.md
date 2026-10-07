@@ -263,6 +263,7 @@
 | [0115-distinct-subsequences](https://github.com/makodetushar02-oss/Leet-code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/makodetushar02-oss/Leet-code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/makodetushar02-oss/Leet-code/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0678-valid-parenthesis-string) |
@@ -457,6 +458,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -594,6 +596,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
