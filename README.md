@@ -68,6 +68,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2399-check-distances-between-same-letters](https://github.com/makodetushar02-oss/Leet-code/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/2404-most-frequent-even-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/makodetushar02-oss/Leet-code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -369,6 +370,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/makodetushar02-oss/Leet-code/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
