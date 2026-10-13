@@ -450,6 +450,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/makodetushar02-oss/Leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/makodetushar02-oss/Leet-code/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/makodetushar02-oss/Leet-code/tree/master/3483-unique-3-digit-even-numbers) |
@@ -635,6 +636,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/makodetushar02-oss/Leet-code/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/makodetushar02-oss/Leet-code/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/makodetushar02-oss/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
