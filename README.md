@@ -450,6 +450,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/makodetushar02-oss/Leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/makodetushar02-oss/Leet-code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/makodetushar02-oss/Leet-code/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/makodetushar02-oss/Leet-code/tree/master/0231-power-of-two) |
@@ -638,6 +639,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/makodetushar02-oss/Leet-code/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/makodetushar02-oss/Leet-code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/makodetushar02-oss/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/makodetushar02-oss/Leet-code/tree/master/0234-palindrome-linked-list) |
