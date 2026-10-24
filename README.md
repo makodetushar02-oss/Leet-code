@@ -248,6 +248,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/makodetushar02-oss/Leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/makodetushar02-oss/Leet-code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/makodetushar02-oss/Leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/makodetushar02-oss/Leet-code/tree/master/1089-duplicate-zeros) |
@@ -276,6 +277,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/makodetushar02-oss/Leet-code/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1929-concatenation-of-array) |
@@ -297,6 +299,7 @@
 | [0678-valid-parenthesis-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/makodetushar02-oss/Leet-code/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/makodetushar02-oss/Leet-code/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/makodetushar02-oss/Leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0940-distinct-subsequences-ii) |
@@ -621,6 +624,7 @@
 | [0234-palindrome-linked-list](https://github.com/makodetushar02-oss/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/makodetushar02-oss/Leet-code/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/makodetushar02-oss/Leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/1021-remove-outermost-parentheses) |
