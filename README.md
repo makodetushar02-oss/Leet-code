@@ -50,6 +50,7 @@
 | [1051-height-checker](https://github.com/makodetushar02-oss/Leet-code/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/makodetushar02-oss/Leet-code/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/makodetushar02-oss/Leet-code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/makodetushar02-oss/Leet-code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -161,6 +162,7 @@
 | [0085-maximal-rectangle](https://github.com/makodetushar02-oss/Leet-code/tree/master/0085-maximal-rectangle) |
 | [0832-flipping-an-image](https://github.com/makodetushar02-oss/Leet-code/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/makodetushar02-oss/Leet-code/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
@@ -508,6 +510,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -515,6 +518,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -713,6 +717,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
