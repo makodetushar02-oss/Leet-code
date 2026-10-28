@@ -9,11 +9,12 @@ class Solution {
         // adding subset to ans 
         // base case
             if(i == nums.length){
-                List<Integer> temp = new ArrayList<>();
-                for(int ele : curr){
-                    temp.add(ele);
-                }
-                ans.add(temp);
+                // List<Integer> temp = new ArrayList<>();
+                // for(int ele : curr){
+                //     temp.add(ele);
+                // }
+                // ans.add(temp);
+                ans.add(new ArrayList<>(curr));
                 return;
             }
             // include
