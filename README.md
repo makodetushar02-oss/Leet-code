@@ -353,6 +353,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/makodetushar02-oss/Leet-code/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/makodetushar02-oss/Leet-code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -546,6 +547,7 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/makodetushar02-oss/Leet-code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
 |  |
 | ------- |
@@ -678,6 +680,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0912-sort-an-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/makodetushar02-oss/Leet-code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -761,4 +764,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0084-largest-rectangle-in-histogram) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/makodetushar02-oss/Leet-code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
