@@ -101,6 +101,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/makodetushar02-oss/Leet-code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/makodetushar02-oss/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/makodetushar02-oss/Leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/makodetushar02-oss/Leet-code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/makodetushar02-oss/Leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/makodetushar02-oss/Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -177,6 +178,7 @@
 | [1260-shift-2d-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/makodetushar02-oss/Leet-code/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/makodetushar02-oss/Leet-code/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/makodetushar02-oss/Leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -422,6 +424,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/makodetushar02-oss/Leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/makodetushar02-oss/Leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/makodetushar02-oss/Leet-code/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/makodetushar02-oss/Leet-code/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
