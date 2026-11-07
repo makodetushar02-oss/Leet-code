@@ -75,6 +75,7 @@
 | [1748-sum-of-unique-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/makodetushar02-oss/Leet-code/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -712,6 +713,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/makodetushar02-oss/Leet-code/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/makodetushar02-oss/Leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/makodetushar02-oss/Leet-code/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
