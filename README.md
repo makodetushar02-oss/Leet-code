@@ -578,6 +578,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
@@ -688,12 +689,14 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
@@ -704,6 +707,7 @@
 | [0042-trapping-rain-water](https://github.com/makodetushar02-oss/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/makodetushar02-oss/Leet-code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/makodetushar02-oss/Leet-code/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/makodetushar02-oss/Leet-code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/makodetushar02-oss/Leet-code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/makodetushar02-oss/Leet-code/tree/master/0234-palindrome-linked-list) |
