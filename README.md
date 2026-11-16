@@ -326,6 +326,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -360,6 +361,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/makodetushar02-oss/Leet-code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/makodetushar02-oss/Leet-code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/makodetushar02-oss/Leet-code/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/2278-percentage-of-letter-in-string) |
 | [2299-strong-password-checker-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/2299-strong-password-checker-ii) |
 | [2315-count-asterisks](https://github.com/makodetushar02-oss/Leet-code/tree/master/2315-count-asterisks) |
