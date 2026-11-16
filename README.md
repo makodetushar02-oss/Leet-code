@@ -178,6 +178,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/makodetushar02-oss/Leet-code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/makodetushar02-oss/Leet-code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/makodetushar02-oss/Leet-code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/makodetushar02-oss/Leet-code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3871-count-commas-in-range-ii) |
@@ -548,6 +549,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/makodetushar02-oss/Leet-code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/makodetushar02-oss/Leet-code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/makodetushar02-oss/Leet-code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/makodetushar02-oss/Leet-code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
