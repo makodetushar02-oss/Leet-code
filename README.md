@@ -581,6 +581,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
@@ -591,6 +592,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/makodetushar02-oss/Leet-code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/1096-brace-expansion-ii) |
@@ -694,6 +696,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -702,6 +705,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
