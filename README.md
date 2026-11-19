@@ -590,6 +590,7 @@
 | [0112-path-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/makodetushar02-oss/Leet-code/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/makodetushar02-oss/Leet-code/tree/master/3310-remove-methods-from-project) |
@@ -713,6 +714,7 @@
 | [0112-path-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -726,6 +728,7 @@
 | [0112-path-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0543-diameter-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/makodetushar02-oss/Leet-code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
@@ -877,4 +880,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/makodetushar02-oss/Leet-code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
