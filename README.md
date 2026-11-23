@@ -28,6 +28,7 @@
 | [0085-maximal-rectangle](https://github.com/makodetushar02-oss/Leet-code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/makodetushar02-oss/Leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0136-single-number) |
@@ -214,6 +215,7 @@
 | [0037-sudoku-solver](https://github.com/makodetushar02-oss/Leet-code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/makodetushar02-oss/Leet-code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/makodetushar02-oss/Leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/makodetushar02-oss/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/makodetushar02-oss/Leet-code/tree/master/0202-happy-number) |
@@ -708,6 +710,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/makodetushar02-oss/Leet-code/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/makodetushar02-oss/Leet-code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -723,6 +726,7 @@
 | [0101-symmetric-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0226-invert-binary-tree) |
@@ -740,6 +744,7 @@
 | [0101-symmetric-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/makodetushar02-oss/Leet-code/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/makodetushar02-oss/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0226-invert-binary-tree) |
