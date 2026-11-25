@@ -134,6 +134,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/makodetushar02-oss/Leet-code/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/makodetushar02-oss/Leet-code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
@@ -261,6 +262,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/makodetushar02-oss/Leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/makodetushar02-oss/Leet-code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/makodetushar02-oss/Leet-code/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/makodetushar02-oss/Leet-code/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/makodetushar02-oss/Leet-code/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -938,4 +941,16 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/makodetushar02-oss/Leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/makodetushar02-oss/Leet-code/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
