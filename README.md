@@ -176,6 +176,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/makodetushar02-oss/Leet-code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/makodetushar02-oss/Leet-code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3360-stone-removal-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/makodetushar02-oss/Leet-code/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/makodetushar02-oss/Leet-code/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -348,6 +349,7 @@
 | [1929-concatenation-of-array](https://github.com/makodetushar02-oss/Leet-code/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/makodetushar02-oss/Leet-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/makodetushar02-oss/Leet-code/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/makodetushar02-oss/Leet-code/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/makodetushar02-oss/Leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
